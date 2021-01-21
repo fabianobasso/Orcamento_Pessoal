@@ -12,14 +12,15 @@ adicionar novas despesas.
 É bem simples de usar você vai cadastrar uma despesa com dia, mês, ano, tipo da despesa, uma descrição e o valor. que pode ser consultado a qualquer momento aqui pode ser feita mostrando o total de despesas cadastradas ou pode ser feita por filtros para mostrar uma despesa específica. 
 
 
-## Layout 
-### Tela de cadastro:
+## Layout
+
+#### Tela de cadastro:
 ![Cadastro](https://github.com/fabianobasso/assets/blob/master/img/OrcamentoPessoal/Cadastro.png)
 
-### Tela de consulta:
+#### Tela de consulta:
 ![Cadastro2](https://github.com/fabianobasso/assets/blob/master/img/OrcamentoPessoal/consulta1.png)
 
-### Local Storage:
+#### Local Storage:
 
 ![Cadastro2](https://github.com/fabianobasso/assets/blob/master/img/OrcamentoPessoal/LocalStorage.png)
 
