@@ -13,9 +13,11 @@ adicionar novas despesas.
 
 
 ## Layout 
+Tela de cadastro:
 ![Cadastro](https://github.com/fabianobasso/assets/blob/master/img/OrcamentoPessoal/Cadastro.png)
 
-![Cadastro2](https://github.com/fabianobasso/assets/blob/master/img/OrcamentoPessoal/Cadastro2.png)
+Tela de consulta:
+![Cadastro2](https://github.com/fabianobasso/assets/blob/master/img/OrcamentoPessoal/consulta1.png)
 
 
 # Tecnologias utilizadas
