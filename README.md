@@ -24,8 +24,8 @@ adicionar novas despesas.
 
 ![Cadastro2](https://github.com/fabianobasso/assets/blob/master/img/OrcamentoPessoal/LocalStorage.png)
 
-
-
+&nbsp;
+&nbsp;
 # Tecnologias utilizadas
 
 ## Back end
@@ -45,6 +45,7 @@ Pré-requisitos: Navegador (Chrome ou Firefox)
 git clone https://github.com/fabianobasso/Orcamento_Pessoal.git
 
 # executar o projeto
+para abrir o app é só abrir o arquivo index.html no navegador
 
 # aviso importante
 O app usa para armazenar seus dado no LocalStorage do seu navegador
