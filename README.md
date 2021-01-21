@@ -19,6 +19,10 @@ Tela de cadastro:
 Tela de consulta:
 ![Cadastro2](https://github.com/fabianobasso/assets/blob/master/img/OrcamentoPessoal/consulta1.png)
 
+Local Storage
+![Cadastro2](https://github.com/fabianobasso/assets/blob/master/img/OrcamentoPessoal/LocalStorage.png)
+
+
 
 # Tecnologias utilizadas
 
