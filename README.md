@@ -13,7 +13,7 @@ adicionar novas despesas.
 
 
 ## Layout 
-[![Cadastro](https://github.com/fabianobasso/assets/blob/master/img/OrcamentoPessoal/Cadastro.png)]
+![Cadastro](https://github.com/fabianobasso/assets/blob/master/img/OrcamentoPessoal/Cadastro.png)
 
 
 # Tecnologias utilizadas
