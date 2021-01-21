@@ -27,11 +27,12 @@ Pré-requisitos: Navegador (Chrome ou Firefox)
 
 ```bash
 # clonar repositório
-git clone 
+git clone https://github.com/fabianobasso/Orcamento_Pessoal.git
 
 # executar o projeto
 
-
+# aviso importante
+O app usa para armazenar seus dado no LocalStorage do seu navegador
 ```
 
 # Autor
