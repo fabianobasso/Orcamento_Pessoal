@@ -13,13 +13,14 @@ adicionar novas despesas.
 
 
 ## Layout 
-Tela de cadastro:
+### Tela de cadastro:
 ![Cadastro](https://github.com/fabianobasso/assets/blob/master/img/OrcamentoPessoal/Cadastro.png)
 
-Tela de consulta:
+### Tela de consulta:
 ![Cadastro2](https://github.com/fabianobasso/assets/blob/master/img/OrcamentoPessoal/consulta1.png)
 
-Local Storage
+### Local Storage:
+
 ![Cadastro2](https://github.com/fabianobasso/assets/blob/master/img/OrcamentoPessoal/LocalStorage.png)
 
 
