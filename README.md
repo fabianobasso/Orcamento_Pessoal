@@ -55,6 +55,5 @@ O app usa para armazenar seus dado no LocalStorage do seu navegador
 
 Fabiano Basso Antonio.
 
-&nbsp;
-&nbsp;
+
 **Linkedin:** https://www.linkedin.com/in/fabiano-basso
