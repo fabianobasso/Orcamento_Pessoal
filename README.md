@@ -1,6 +1,6 @@
 # Orçamento Pessoal
 
-[![GitHub](https://img.shields.io/github/license/fabianobasso/Jogo_De_Xadrez)](https://github.com/fabianobasso/Jogo_Mata_Mosquito/blob/master/LICENSE) 
+[![GitHub](https://img.shields.io/github/license/fabianobasso/Jogo_De_Xadrez)](https://github.com/fabianobasso/Orcamento_Pessoal/blob/master/LICENSE) 
 
 # Sobre o projeto
 
